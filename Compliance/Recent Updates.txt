@@ -1,0 +1,7 @@
+Made Changes in Compliance Design. (See Chages 2 and Change 3 img)
+Done soome research for internal pages w.r.t to SCP for IAM policies. 
+Added internal pages W.r.t to policy and internal governance . 
+Also added Widget of Severity Status to the main Dashboard pie chart. 
+Widget of Resources showing their compliacity in All accounts.
+Added Internal pages of Security policies for Compliance.
+Completed prototype of all internal pages.
